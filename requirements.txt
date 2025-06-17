@@ -1,0 +1,3 @@
+# reruirements.txt
+snowflake-snowpark-python
+streamlit
